@@ -1,4 +1,4 @@
-body {background-color: coral;}
+body {background-color: pink;}
 .screen-height {
     height: 100vh
 }
@@ -13,7 +13,7 @@ body {background-color: coral;}
 
 .ui-background {
     background: black;
-    color: green;
+    color: #FF69B4;
     padding: 1rem;
     border-radius: .5rem;
     box-shadow: 0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -2px rgba(0,0,0,.05)
@@ -57,5 +57,5 @@ body {background-color: coral;}
 }
 
 .ui-button:hover {
-    background: #2d3747
+    background: #2d3748
 }
