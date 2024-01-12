@@ -1,6 +1,6 @@
 body {background-color: pink;}
 .screen-height {
-    height: 100vh
+    height: 100vh;
 }
 .table {
     table, th, td{
@@ -8,6 +8,8 @@ body {background-color: pink;}
         color: pink;
         font-family:'Courier New', monospace;
         font-weight: bold;
+        text-align: center
+
     }
 }
 .ui-container-height {
@@ -49,7 +51,7 @@ body {background-color: pink;}
 
 .ui-text {
     font-family:'Courier New', monospace;
-    text-align: center;
+    text-align: left;
     font-size: 1.125rem;
     font-weight: bold;
     margin-bottom: .5rem
