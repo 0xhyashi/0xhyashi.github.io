@@ -2,7 +2,14 @@ body {background-color: pink;}
 .screen-height {
     height: 100vh
 }
-
+.table {
+    table, th, td{
+        border:1px solid pink;
+        color: pink;
+        font-family:'Courier New', monospace;
+        font-weight: bold;
+    }
+}
 .ui-container-height {
     height: auto;
     min-height: 100vh;
